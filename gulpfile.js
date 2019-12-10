@@ -27,7 +27,7 @@ function browserSyncServe() {
     server: {
       baseDir: '_site/',
       routes: {
-        '/tourist-board': '_site/'
+        '/de/2019/edmonton': '_site/'
       }
     }
   });

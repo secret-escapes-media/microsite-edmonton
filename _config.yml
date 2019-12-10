@@ -1,18 +1,19 @@
 # Site settings
-title: Tourist Board
+title: Edmonton
 client:
-  name: Client Name
-  link: "#client-name"
-core-se-link: https://www.secretescapes.com/current-sales
+  name: Edmonton
+  link: "http://bit.ly/2P58qqw"
+  link2: "https://klmf.ly/2P6lPi3"
+core-se-link: https://www.secretescapes.de
 description: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  Nirgends können Sie die raue Schönheit von Eis und Schnee besser erleben, als im Westen Kanadas. Unser Guide führt Sie von Edmonton, dem Geheimtipp für Foodies und Festivalfans, in den atemberaubenden Jasper National Park mitten in den Rocky Mountains und zum Marmot Basin mit seinen unvergleichlich guten Schneeverhältnissen.
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/tourist-board" # the subpath of your site, e.g. /blog/
-img:     "/tourist-board/_assets/img"
-css:     "/tourist-board/_assets/css"
-js:      "/tourist-board/_assets/js"
+baseurl: "/de/2019/edmonton" # the subpath of your site, e.g. /blog/
+img:     "/de/2019/edmonton/_assets/img"
+css:     "/de/2019/edmonton/_assets/css"
+js:      "/de/2019/edmonton/_assets/js"
 
 
 # Build settings

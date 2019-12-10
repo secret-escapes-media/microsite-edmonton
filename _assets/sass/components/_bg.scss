@@ -3,7 +3,9 @@
 .bg {
   &--white { background-color: $white; }
   &--light { background-color: $grey-lightest; }
-  &--dark  { background-color: $grey-dark; }
+  &--dark  { background-color: $grey-darkest; }
+  &--turquoise  { background-color: $turquoise; }
+  &--orange  { background-color: $orange; }
   &--img   { @include background-attributes; }
   &__fixed {
     position: relative;

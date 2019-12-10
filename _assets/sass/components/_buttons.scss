@@ -43,6 +43,14 @@
       &:before { border-color: $orange; }
     }
   }
+  &--outline-white {
+    &:before { border-color: $white; }
+    &:hover {
+      color: black;
+      background-color: $white;
+      &:before { border-color: $white; }
+    }
+  }
   &--outline-turquoise {
     &:before { border-color: $turquoise; }
     &:hover {

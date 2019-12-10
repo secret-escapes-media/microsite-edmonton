@@ -1,35 +1,32 @@
 - id: one
-  title: Section one
-  nav-title: One
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
-  link: "#section-link"
+  title: Geheimtipp Edmonton
+  nav-title: edmonton
+  description: "Edmonton ist nicht nur die Hauptstadt Albertas und für viele der Ausgangspunkt für Touren durch die Rocky Mountains: Die moderne Großstadt ist der Geheimtipp unter Foodies und Kulturliebhabern. Nicht ohne Grund wird sie auch „The Festival City“ genannt: In der kalten Jahreszeit können Sie hier bei verschiedenen Festivals Skulpturen und Schlösser aus Eis bewundern oder sich mit einem heißen Getränk in der Hand am Feuer wärmen."
+  link: "http://bit.ly/358Xbmy"
 
   pois:
     items:
 
       - id: one-first-poi
-        title: One First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
-
-      - id: one-second-poi
-        title: One Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
-
-      - id: one-third-poi
-        title: One Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        img: img1
+        title: Eisige Winterevents
+        description: "Winterzeit ist Festivalzeit in Edmonton. Eines der bekanntesten Events ist das Deep Freeze. Typisch kanadisch können Sie hier Schlittschuhlaufen und Eishockey spielen. Das Highlight ist aber das Wettrennen, dessen Teilnehmer in Gefriertruhen gegeneinander antreten. Beim Ice on Whyte entstehen in einer großen Ice Carving Competition aus 70.000 Kilo Eis funkelnde Kunstwerke, außerdem gibt es eine Eisrutsche und eine rasante Eisbahn. Der Genuss der langen Winterabende steht hingegen beim Flying Canoe im Vordergrund: Mit heißen Getränken, Lagerfeuer und romantischen Pferdekutschen. Unser Favorit ist jedoch das Ice Castles - die beleuchteten Eispaläste sorgen für ultimatives Winterwunderland-Feeling."
 
       - id: one-fourth-poi
-        title: One Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        img: img4
+        title: Foodie-Traum
+        description: "Wo es früher kulinarisch nicht viel zu sehen gab, ziehen heute erstklassige Restaurants mit kreativen Konzepten Foodies aus aller Welt an. Wie wäre es mit einer Food-Tour, die Sie zu den Hotspots der Szene führt? Verkosten Sie anschließend einzigartige Spirituosen in einer der vielen kleinen, innovativen Startup-Destillerien, zum Beispiel bei Strathcona Spirits, Edmontons erster Destillerie und der kleinsten in Nordamerika. Oder probieren Sie sich durch die lebendige Craft-Beer-Szene: Von Bent Stick und Sea Change bis Alleykat und Blind Enthusiasm gibt es verschiedenste Brauereien zu entdecken."
+
+      - id: one-second-poi
+        img: img2
+        title: Aktiver Naturgenuss
+        description: "Mitten durch die Stadt zieht sich entlang des North Saskatchewan River das größte urbane Parkgebiet Kanadas: Das River Valley umfasst 20 Parks und ganze 160 km gepflegter Wege, auf denen Sie nicht nur spazieren können. Im Winter eignen sie sich auf perfekt zum Ski-Langlauf oder für eine Tour mit dem Fatbike. Es gibt sogar Eiswege, auf denen Sie Schlittschufahren können. Um die Natur aktiv zu genießen, müssen Sie also nicht einmal die Stadt verlassen! "
+
+      - id: one-third-poi
+        img: img3
+        title: Let's Go Oilers!
+        description: "Kanada ist das Mutterland des Eishockey. Ein NHL-Eishockey-Spiel live in der Arena zu sehen, ist deshalb wohl das kanadischste, was Sie überhaupt nur tun können. Ihr erstes Heimspiel der Edmonton Oilers werden Sie sicher nicht so schnell vergessen: Die einzigartige Atmosphäre in einem der modernsten Stadien der Welt, dem „Roger’s Place“ im Ice District, macht das Spiel auch für Eishockey-Laien zu einem mitreißenden Erlebnis."
+
 
 
 
@@ -38,73 +35,34 @@
 
 
 - id: two
-  title: Section Two
-  nav-title: Two
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
-  link: "#section-link"
+  title: "Wilde Schönheit: Jasper"
+  nav-title: jasper national park
+  description: "Nur wenige Stunden Fahrt von Edmonton entfernt können Sie im Jasper National Park auf 11.000 km² die Ruhe und Weite der kanadischen Wildnis und die erhabene Schönheit der Rocky Mountains erleben: Grizzlys, Elche und Wölfe streifen durch einsame Wälder, der gigantische Athabasca Gletscher erstreckt sich auf 6 km² und im strahlend blauen Wasser des Maligne Lake spiegelt sich das inzwischen weltberühmte Spirit Island."
+  link: "http://bit.ly/2sgm5SB"
 
   pois:
     items:
 
-      - id: two-first-poi
-        title: Two First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+      - id: one
+        img: img1
+        title: Aktiver Wintergenuss
+        description: "Auch abseits der Pisten des Marmot Basin können Sie die ganze sechs Monate lange Wintersaison im Nationalpark nutzen, um die kanadische Natur in ihrer weißen Pracht zu erleben. Zu den Klassikern zählen Schneeschuhwandern, Ski-Langlauf und Schlittschuhlaufen. Doch das wahre Kanada-Abenteuer erwartet Sie hinter bis zu zwölf Huskys gespannt, wo Sie mit bis zu 40 km/h durch den Schnee rasen oder in tief verschneiten Canyons, wo Sie mit Pickel und Steigeisen an gefrorenen Wasserfällen emporklettern können."
 
       - id: two-second-poi
-        title: Two Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        img: img2
+        title: Bergdorf Jasper
+        description: "Früher ein Handelsposten der Hudson’s Bay Company, ist das Bergdorf Jasper heute für viele Abenteurer und Naturliebhaber der Ausgangspunkt für ihre Entdeckungstouren im Nationalpark. In luxuriösen Chalets und rustikalen Blockhütten spüren Sie auf 1062 m Höhe den unvergleichlichen Charme der Rockies. Entlang der Patricia Street und des Connaught Drive finden Sie alles, was Sie für Ihre Ausflüge benötigen, während es neben Cafes und Bars in Downtown auch das eine oder andere Souvenir zu kaufen gibt."
 
       - id: two-third-poi
-        title: Two Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        img: img3
+        title: Maligne Canyon
+        description: "Während der Maligne Canyon Naturfreunde im Sommer mit seiner Pflanzenwelt und seltenen Vögeln begeistert, verzaubern im Winter gefrorene Wasserfälle mit bizarren Formen und faszinierenden Lichtspielen. Lassen Sie sich von einem erfahrenen Guide über gewundene Pfade in die tiefe Schlucht hinab und durch die steilen Felswände führen, klettern Sie mit professioneller Ausrüstung an den wunderbar schimmernden, vereisten Wassermassen empor oder lauschen Sie einfach dem Knacken des Schnees unter Ihren Füßen, das von den massiven Felsen wiederhallt. "
 
       - id: two-fourth-poi
-        title: Two Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
+        img: img4
+        title: Dark Sky Preserve
+        description: "Richtige Dunkelheit kennen die wenigsten von uns. Im Dark Sky Preserve können Sie sie allerdings noch ungestört von künstlichen Lichtquellen erleben: Es ist das größte und vielleicht auch schönste Lichtschutzgebiet der Welt. Hier können Sie den Sternenhimmel und mit etwas Glück das Nordlicht besser sehen, als irgendwo sonst. Nach Sonnenuntergang entfalten malerische Orte wie Pyramid Island, der Maligne Canyon, Old Fort Point oder der Medicine Lake erst ihren vollen Zauber."
 
 
 
 ################################################################################
-
-
-
-- id: three
-  title: Section Three
-  nav-title: Three
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum. Consequuntur recusandae nemo, magni excepturi laborum nihil aperiam est!
-  link: "#section-link"
-
-  pois:
-    items:
-
-      - id: three-first-poi
-        title: Three First POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
-
-      - id: three-second-poi
-        title: Three Second POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
-
-      - id: three-third-poi
-        title: Three Third POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
-
-      - id: three-fourth-poi
-        title: Three Fourth POI
-        description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos rerum optio est consequuntur ut quibusdam soluta molestias perspiciatis, dolor corrupti culpa labore aspernatur voluptates, ipsum laborum eligendi placeat et fugiat sit, quidem, totam iure ea ad velit! Aliquid, placeat, ea. Amet accusamus voluptas odit harum necessitatibus consequatur delectus autem rerum architecto voluptatum.
-        link: "#poi-link"
-        image-credit: "<a href=\"#photo-link\">Photo</a> by username / <a rel=\"nofollow\" href=\"https://creativecommons.org/licenses/by/2.0/\">CC BY</a>"
