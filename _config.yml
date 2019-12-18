@@ -10,10 +10,10 @@ description: >
 
 # file paths
 url:     "http://mp.secretescapes.com" # the base hostname & protocol for your site
-baseurl: "/de/2019/edmonton" # the subpath of your site, e.g. /blog/
-img:     "/de/2019/edmonton/_assets/img"
-css:     "/de/2019/edmonton/_assets/css"
-js:      "/de/2019/edmonton/_assets/js"
+baseurl: "/de/edmonton" # the subpath of your site, e.g. /blog/
+img:     "/de/edmonton/_assets/img"
+css:     "/de/edmonton/_assets/css"
+js:      "/de/edmonton/_assets/js"
 
 
 # Build settings

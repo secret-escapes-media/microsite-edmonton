@@ -27,7 +27,7 @@ function browserSyncServe() {
     server: {
       baseDir: '_site/',
       routes: {
-        '/de/2019/edmonton': '_site/'
+        '/de/edmonton': '_site/'
       }
     }
   });
